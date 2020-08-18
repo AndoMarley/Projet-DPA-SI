@@ -4,6 +4,8 @@ Redemarrage NAS
 
 Mise à jour firmware NAS
 
+A enlever les comptes hors de la liste des users 
+
 Installation du console Web admin ESET
 
 Migration Exchange :
