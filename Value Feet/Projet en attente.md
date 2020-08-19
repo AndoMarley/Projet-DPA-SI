@@ -15,3 +15,5 @@ en attente rep sur le NAS
 Top solid, rdv à prendre
 
 Appeler marion Value feet, problème box wifi Huawei
+
+Contacter Inseco pour balancer le mémoire Ram entre SRV-appl et srv divalto
