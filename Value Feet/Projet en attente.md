@@ -6,7 +6,7 @@ ERA web console / agent à deployer
 
 RDP : Cal à insttaller sur SRV-APPL-ERP
 
-office 365
+office 365, migration en cours, changer la icence des boites recouvrement et imprimantes en exchange plan 1
 
 veeam agent à verrouiller
 
